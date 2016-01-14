@@ -1,0 +1,6 @@
+To install the aspects library to your system, run
+
+python setup.py install
+
+To use the aspects library in your project, add aspects.py to your
+project's libraries.
